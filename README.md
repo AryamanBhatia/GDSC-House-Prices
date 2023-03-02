@@ -1,2 +1,3 @@
-# GDSC-House-Prices
-GDSC Test repo
+# Blue-House-Price-Predictor
+
+Team Blue - House Price Prediction Project
